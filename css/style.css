@@ -184,6 +184,10 @@ body {
     color:  #2e2f42;
 }
 
+.img_class {
+    display: block;
+}
+
 .ourteam_section {
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4) ;
