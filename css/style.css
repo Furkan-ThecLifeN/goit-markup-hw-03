@@ -23,7 +23,6 @@ body {
 
 .logo_class_bar {
     font-family: "Raleway", sans-serif;
-    display: inline-block;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -100,9 +99,6 @@ body {
     color: #FFFFFF;
 }
 
-.About_Business {
-    background-color: #F4F4FD;
-}
 .btn-action {
     background-color: #4D5AE5;
     display: block;
@@ -131,7 +127,7 @@ body {
 
 
 
-.about_h3 {
+.about-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -140,22 +136,32 @@ body {
     color: #2e2f42;
 }
 
-.about_section_paragraf {
+.about-section_paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.About_Business {
+.first-section {
+    background-color: #F4F4FD;
     padding: 120px;
 }
 
 .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
     visibility: hidden;
-}
+  }
 
-.About_Business_ul {
+.about-business_ul {
     display: flex;
     gap: 24px;
 }
@@ -283,6 +289,9 @@ body {
     color:  #4d5ae5;
 }  
 
+a {
+    display: inline-block;
+}
 
 .studio_footer {
     color: #F4F4FD;
