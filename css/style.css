@@ -30,6 +30,7 @@ body {
     text-transform: uppercase;
     margin-right: 76px;
     margin-bottom: 16px;
+    display: inline-block;
     color:  #4d5ae5;
 }  
 
@@ -289,9 +290,7 @@ body {
     color:  #4d5ae5;
 }  
 
-.footer_section div a {
-    display: inline-block;
-}
+
 
 .studio_footer {
     color: #F4F4FD;
