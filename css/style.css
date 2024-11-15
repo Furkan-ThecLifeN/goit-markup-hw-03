@@ -167,9 +167,11 @@ body {
     gap: 24px;
 }
 
-.about_class {
-    flex-basis: calc((100% - 72px) / 4);
+
+.second-section div ul li {
+    flex-basis: calc((100% - 72px) / 4); 
 }
+
 
 .third_section {
     background-color: #f4f4fd;
