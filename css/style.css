@@ -9,7 +9,6 @@ body {
 }
 
 .container {
-    display: flex;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
@@ -169,7 +168,7 @@ body {
 
 
 .about_class {
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
 }
 
 
@@ -240,7 +239,7 @@ body {
 }
 
 .our_portfolio_li {
-    flex-basis: calc((100% - 72px) / 4);
+    width: calc((100% - 72px) / 4);
 }
 
 .our_portfolio_div {
