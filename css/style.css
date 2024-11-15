@@ -34,7 +34,7 @@ body {
     color:  #4d5ae5;
 }  
 
-
+  
 .studio_heater {
     color: #2e2f42;
 }
@@ -168,12 +168,12 @@ body {
 }
 
 
-.second-section div ul li {
-    flex-basis: calc((100% - 72px) / 4); 
+.about_class {
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 
-.third_section {
+.third-section {
     background-color: #f4f4fd;
     padding: 120px 0;
 }
