@@ -9,9 +9,12 @@ body {
 }
 
 .container {
+    display: flex;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: block; 
+    margin-bottom: 16px; 
 }
 
 .container {
@@ -98,10 +101,6 @@ body {
     padding: 188px 0;
 }
 
-.first-container {
-    display: block; 
-    margin-bottom: 16px; 
-}
 
 
 .title_section {
@@ -162,10 +161,7 @@ body {
     padding: 120px 0;
 }
 
-.second-container {
-    display: block; 
-    margin-bottom: 16px; 
-}
+
 
 .second-section-title {
     position: absolute;
@@ -198,10 +194,7 @@ body {
     padding: 120px 0;
 }
 
-.third-container {
-    display: block; 
-    margin-bottom: 16px; 
-}
+
 
 .our_team_ul {
     display: flex;
@@ -256,10 +249,7 @@ body {
     padding: 120px 0;
 }
 
-.fourth-container {
-    display: block; 
-    margin-bottom: 16px; 
-}
+
 
 .our_portfolio_ul {
     display: flex;
@@ -314,11 +304,7 @@ body {
     padding: 100px 0;
 
 }
-.footer-container {
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
-}
+
  
  /* 
  .logo_WebStudio_footer {
