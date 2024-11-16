@@ -9,12 +9,20 @@ body {
 }
 
 .container {
-    display: flex;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
 }
 
+.container {
+    display: block; 
+    margin-bottom: 16px; 
+  }
+
+
+  .container div {
+    margin-bottom: 8px; 
+  }
 .navbar_section {
     border-bottom: 1px solid #E7E9FC;
     display: flex;
@@ -162,6 +170,7 @@ body {
     border: 0;
     visibility: hidden;
   }
+
 
 .about-business_ul {
     display: flex;
