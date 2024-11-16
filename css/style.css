@@ -4,9 +4,28 @@ body {
     background-color: #FFFFFF;
 }
 
-.header {
+.site-header {
     border-bottom: 1px solid #e7e9fc;
 }
+
+.container {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: block; 
+    margin-bottom: 16px; 
+}
+
+.main-container {
+    display: flex; /* Flex düzenleme */
+  }
+
+.container {
+    width: 1158px; /* İçeriğin genişliği */
+    margin: 0 auto; /* Ortaya hizalama */
+  }
+  
 
 .container {
     display: flex;
