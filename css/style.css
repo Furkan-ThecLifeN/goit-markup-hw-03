@@ -125,17 +125,6 @@ body {
     background-color:  #404BBF;
 }
 
-
-
-.about-h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    margin-bottom: 8px;
-    color: #2e2f42;
-}
-
 /* 
 .about-h3 {
     font-weight: 500;
@@ -159,7 +148,7 @@ body {
     padding: 120px 0;
 }
 
-.second-section-h2 {
+.second-section-title {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -273,7 +262,7 @@ body {
     color: #2e2f42;
 }
 
-.portfolio_h3 {
+.portfolio_div-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
