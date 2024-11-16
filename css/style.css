@@ -136,6 +136,17 @@ body {
     color: #2e2f42;
 }
 
+/* 
+.about-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    margin-bottom: 8px;
+    color: #2e2f42;
+}
+*/
+
 .about-section_paragraf {
     font-size: 16px;
     line-height: 1.5;
@@ -283,8 +294,9 @@ body {
     padding: 100px 0;
 
 }
-
-.logo_WebStudio_footer {
+ 
+ /* 
+ .logo_WebStudio_footer {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -292,9 +304,8 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:  #4d5ae5;
-}  
-
-
+}
+*/
 
 .studio_footer {
     color: #F4F4FD;
